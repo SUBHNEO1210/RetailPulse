@@ -1,0 +1,74 @@
+[2026-03-30 23:07:25] Loading raw dataset...
+[2026-03-30 23:07:25] Raw rows loaded: 56100
+[2026-03-30 23:07:25] Duplicates removed: 1100
+[2026-03-30 23:07:25] Missing dates dropped: 543
+[2026-03-30 23:07:25] Negative quantities fixed: 544
+[2026-03-30 23:07:26] Price outliers fixed: 5417
+[2026-03-30 23:07:26] Null revenues filled: 1090
+[2026-03-30 23:07:26] Null segments filled: 1092
+[2026-03-30 23:07:27] CLV calculated for all customers
+[2026-03-30 23:07:27] Final clean rows: 54457
+[2026-03-30 23:07:27] Data accuracy: 97.1%
+[2026-03-30 23:07:27] All issues fixed: {'duplicates_removed': 1100, 'missing_dates_dropped': 543, 'negative_qty_fixed': 544, 'price_outliers_fixed': 5417, 'null_revenue_filled': 1090, 'null_segment_filled': 1092}
+[2026-03-30 23:07:27] Total revenue: Rs.248,236,534
+[2026-03-30 23:07:27] Date range: 2023-01-01 00:00:00 to 2024-12-30 00:00:00
+[2026-03-30 23:08:23] Clean dataset saved as clean_orders.csv and clean_orders.xlsx
+[2026-03-30 23:08:27] Loading raw dataset...
+[2026-03-30 23:08:27] Raw rows loaded: 56100
+[2026-03-30 23:08:27] Duplicates removed: 1100
+[2026-03-30 23:08:27] Missing dates dropped: 543
+[2026-03-30 23:08:27] Negative quantities fixed: 544
+[2026-03-30 23:08:27] Price outliers fixed: 5417
+[2026-03-30 23:08:27] Null revenues filled: 1090
+[2026-03-30 23:08:27] Null segments filled: 1092
+[2026-03-30 23:08:28] CLV calculated for all customers
+[2026-03-30 23:08:28] Final clean rows: 54457
+[2026-03-30 23:08:28] Data accuracy: 97.1%
+[2026-03-30 23:08:28] All issues fixed: {'duplicates_removed': 1100, 'missing_dates_dropped': 543, 'negative_qty_fixed': 544, 'price_outliers_fixed': 5417, 'null_revenue_filled': 1090, 'null_segment_filled': 1092}
+[2026-03-30 23:08:28] Total revenue: Rs.248,236,534
+[2026-03-30 23:08:28] Date range: 2023-01-01 00:00:00 to 2024-12-30 00:00:00
+[2026-03-30 23:09:19] Clean dataset saved as clean_orders.csv and clean_orders.xlsx
+[2026-03-31 01:53:14] Loading raw dataset...
+[2026-03-31 01:53:14] Raw rows: 61200
+[2026-03-31 01:53:14] Duplicates removed: 1200
+[2026-03-31 01:53:14] Missing dates dropped: 599
+[2026-03-31 01:53:14] Negative quantities fixed: 588
+[2026-03-31 01:53:14] Price outliers fixed: 5070
+[2026-03-31 01:53:14] Null revenues filled: 1187
+[2026-03-31 01:53:14] Null segments filled: 1189
+[2026-03-31 01:53:14] Null cities filled: 895
+[2026-03-31 01:53:14] Null ratings filled: 1184
+[2026-03-31 01:53:15] CLV calculated
+[2026-03-31 01:53:15] Order frequency calculated
+[2026-03-31 01:53:16] Final rows: 59401
+[2026-03-31 01:53:16] Columns: 33
+[2026-03-31 01:53:16] Data accuracy: 97.1%
+[2026-03-31 01:53:16] Issues fixed: {'duplicates_removed': 1200, 'missing_dates_dropped': 599, 'negative_qty_fixed': 588, 'price_outliers_fixed': 5070, 'null_revenue_filled': 1187, 'null_segment_filled': 1189, 'null_city_filled': 895, 'null_rating_filled': 1184}
+[2026-03-31 01:53:16] Total Revenue: Rs.491,550,522
+[2026-03-31 01:53:16] Total Profit : Rs.92,394,454
+[2026-03-31 01:53:16] Total Orders : 59,401
+[2026-03-31 01:53:16] Unique Customers: 9,976
+[2026-03-31 01:53:16] Date Range: 2023-01-01 to 2024-12-30
+[2026-03-31 01:54:18] Saved: clean_orders.csv and clean_orders.xlsx
+[2026-03-31 01:55:05] Loading raw dataset...
+[2026-03-31 01:55:06] Raw rows: 61200
+[2026-03-31 01:55:06] Duplicates removed: 1200
+[2026-03-31 01:55:06] Missing dates dropped: 599
+[2026-03-31 01:55:06] Negative quantities fixed: 588
+[2026-03-31 01:55:06] Price outliers fixed: 5070
+[2026-03-31 01:55:06] Null revenues filled: 1187
+[2026-03-31 01:55:06] Null segments filled: 1189
+[2026-03-31 01:55:06] Null cities filled: 895
+[2026-03-31 01:55:06] Null ratings filled: 1184
+[2026-03-31 01:55:06] CLV calculated
+[2026-03-31 01:55:06] Order frequency calculated
+[2026-03-31 01:55:07] Final rows: 59401
+[2026-03-31 01:55:07] Columns: 33
+[2026-03-31 01:55:07] Data accuracy: 97.1%
+[2026-03-31 01:55:07] Issues fixed: {'duplicates_removed': 1200, 'missing_dates_dropped': 599, 'negative_qty_fixed': 588, 'price_outliers_fixed': 5070, 'null_revenue_filled': 1187, 'null_segment_filled': 1189, 'null_city_filled': 895, 'null_rating_filled': 1184}
+[2026-03-31 01:55:07] Total Revenue: Rs.491,550,522
+[2026-03-31 01:55:07] Total Profit : Rs.92,394,454
+[2026-03-31 01:55:07] Total Orders : 59,401
+[2026-03-31 01:55:07] Unique Customers: 9,976
+[2026-03-31 01:55:07] Date Range: 2023-01-01 to 2024-12-30
+[2026-03-31 01:56:20] Saved: clean_orders.csv and clean_orders.xlsx
